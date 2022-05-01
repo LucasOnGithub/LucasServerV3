@@ -81,6 +81,64 @@
       }
     ]
   },
+    "RobbyRecla": {
+    "Room": {
+      "RoomId":46134,
+      "Name":"RobbyRecla",
+      "Description":"Robby Recla's factory! [contest]",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRobbyRecla.jfif",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":4044458,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"cHCf2KdooU-BJ0QdyOci5Q.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-26T03:23:32.3996673Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":283,
+    "FavoriteCount":551,
+    "VisitCount":21688,
+    "Tags": [
+      {
+        "Tag": "community",
+        "Type": 2
+      },
+      {
+        "Tag": "puzzle",
+        "Type": 0
+      },
+      {
+        "Tag": "story",
+        "Type": 0
+      },
+      {
+        "Tag": "explore",
+        "Type": 0
+      },
+      {
+        "Tag": "contest",
+        "Type": 0
+      }
+    ]
+  },
+  
   "WhackAPete": {
     "Room": {
       "RoomId":2365681,
