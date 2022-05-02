@@ -121,6 +121,47 @@
       }
     ]
   },
+  "NeonsClub": {
+    "Room": {
+      "RoomId":57952,
+      "Name":"NeonsClub",
+      "Description":"Fun Club - Place To Be",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityNeonsClub.jpg",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":57952,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"rTYSO1T-YEWOSvrejHU95Q.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-05T18:39:53.3710408Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":2826,
+    "FavoriteCount":2082,
+    "VisitCount":81200,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "Tavern": {
     "Room": {
       "RoomId":1635,
@@ -280,6 +321,50 @@
     "Tags": [
       {
         "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
+    "CircuitDemo": {
+    "Room": {
+      "RoomId":21127,
+      "Name":"CircuitDemo",
+      "Description":"How to Circuit",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityWhackAPete.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":21127,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"2TOMfvGJSk62YYriAIhAhQ.room",
+        "MaxPlayers":12,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-04T22:26:38.2191033Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":73,
+    "FavoriteCount":96,
+    "VisitCount":1198,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      },
+      {
+        "Tag":"circuits",
         "Type":2
       }
     ]
@@ -1869,6 +1954,7 @@
         "RoomSceneLocationId":"d89f74fa-d51e-477a-a425-025a891dd499",
         "Name":"Home",
         "IsSandbox":true,
+        "DataBlobName":"d51b899f9488472786f4af5792ffcd63.room",
         "DataBlobName":"-ZvKAfQJPki-8wn5GqEd7g.room",
         "MaxPlayers":20,
         "CanMatchmakeInto":true,
@@ -2687,6 +2773,47 @@
       }
     ]
   },
+  "CellGamesDragonballZ": {
+    "Room": {
+      "RoomId":84744,
+      "Name":"CellGamesDragonballZ",
+      "Description":"Cell Games DBZ. Interactive hunt\\pvp",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityCellGamesDragonballZ.jpg",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":84744,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"keJVe8O4CkSkRhDZsjMxuw.room",
+        "MaxPlayers":15,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-28T19:19:24.4270939Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":82,
+    "FavoriteCount":245,
+    "VisitCount":11130,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "lunchphoto": {
     "Room": {
       "RoomId":137057,
@@ -2763,6 +2890,166 @@
     "Tags": [
       {
         "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
+  "CityRP": {
+    "Room": {
+      "RoomId":61440,
+      "Name":"CityRP",
+      "Description":"beta 2.0",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityCityRP.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":61440,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"hjKRlMDD0EWLVO0kahMwmA.room",
+        "MaxPlayers":10,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-27T22:15:33.1750993Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":10,
+    "FavoriteCount":18,
+    "VisitCount":486,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+  "ToxiArtStudio": {
+    "Room": {
+      "RoomId":86812,
+      "Name":"ToxiArtStudio",
+      "Description":"Just a room for art and artists, enjoy yourselves and leave a cheer",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityToxiArtStudio.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":86812,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"aaNhkADXJEKDDj1nlAPOww.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-21T22:27:21.7374455Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":492,
+    "FavoriteCount":460,
+    "VisitCount":45705,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+  "MassiveBallPit": {
+    "Room": {
+      "RoomId":45953,
+      "Name":"MassiveBallPit",
+      "Description":"Play with some massive balls! Shoot hoops, use the paddles, or even build something with them! Have fun! ",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityMassiveBallPit.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":45953,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"6wH03NnbN0OVLW4DWzBdxw.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-31T05:57:42.3384895Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":58,
+    "FavoriteCount":61,
+    "VisitCount":3185,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+  "SwordArtOnlineBETA": {
+    "Room": {
+      "RoomId":60092,
+      "Name":"SwordArtOnlineBETA",
+      "Description":"MMORPG Thanks: cool D Lgzr, and Sword Duck",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivitySwordArtOnlineBETA.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":60092,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"W9-oqLZJIkmX_CtFMo_f6g.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-07-14T02:29:28.4789659Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":2115,
+    "FavoriteCount":203,
+    "VisitCount":6459,
+    "Tags": [
+      {
+        "Tag":"rro",
         "Type":2
       }
     ]
@@ -3590,7 +3877,7 @@
       }
     ],
     "CoOwners":[],
-    "Hosts":[1260281079, 39720],
+    "Hosts":[1260281079, 39720, 15362870],
     "CheerCount":1,
     "FavoriteCount":1,
     "VisitCount":1,
