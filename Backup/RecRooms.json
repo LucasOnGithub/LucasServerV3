@@ -203,7 +203,7 @@
       }
     ]
   },
-    "RecSkiing": {
+  "RecSkiing": {
     "Room": {
       "RoomId":113377,
       "Name":"RecSkiing",
@@ -2953,7 +2953,8 @@
       "CloningAllowed":false,
       "SupportsScreens":true,
       "SupportsWalkVR":true,
-      "SupportsTeleportVR":true},
+      "SupportsTeleportVR":true
+    },
     "Scenes": [
       {
         "RoomSceneId":1,
@@ -2995,7 +2996,8 @@
       "CloningAllowed":false,
       "SupportsScreens":true,
       "SupportsWalkVR":true,
-      "SupportsTeleportVR":true},
+      "SupportsTeleportVR":true
+    },
     "Scenes": [
       {
         "RoomSceneId":1,
@@ -3186,7 +3188,7 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[29869076,39720],
+    "CoOwners":[29869076],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
@@ -3361,7 +3363,8 @@
       "CloningAllowed":false,
       "SupportsScreens":true,
       "SupportsWalkVR":true,
-      "SupportsTeleportVR":true},
+      "SupportsTeleportVR":true
+    },
     "Scenes": [
       {
         "RoomSceneId":0,
@@ -3517,126 +3520,44 @@
       }
     ]
   },
-  "GoKartQuest": {
-    "Room": {
-      "RoomId":27,
-      "Name":"GoKartQuest",
-      "Description":"New",
-      "CreatorPlayerId":1,
-      "ImageName":"ActivityGoKartQuest.png",
-      "State":0,
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":true,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId":0,
-        "RoomId":27,
-        "RoomSceneLocationId":"49cb8993-a956-43e2-86f4-1318f279b22a",
-        "Name":"Home",
-        "IsSandbox":false,
-        "DataBlobName":"",
-        "MaxPlayers":20,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
-      }
-    ],
-    "CoOwners":[29869076],
-    "Hosts":[],
-    "CheerCount":1,
-    "FavoriteCount":1,
-    "VisitCount":1,
-    "Tags": [
-      {
-        "Tag":"rro",
-        "Type":2
-      }
-    ]
-  },
-  "RecRoomVaultsTestRoom": {
-    "Room": {
-      "RoomId":4436003,
-      "Name":"RecRoomVaultsTestRoom",
-      "Description":"This is a test room to show custom rooms working!",
-      "CreatorPlayerId":1,
-      "ImageName":"",
-      "State":0,
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":false,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId":1,
-        "RoomId":24,
-        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
-        "Name":"Home",
-        "IsSandbox":true,
-        "DataBlobName":"NWN1JMJXAOXLU5IAX2DUC3.room",
-        "MaxPlayers":20,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2021-05-23T15:37:00.2228847+10:00"
-      }
-    ],
-    "CoOwners":[29869076],
-    "Hosts":[],
-    "CheerCount":1,
-    "FavoriteCount":1,
-    "VisitCount":1,
-    "Tags": [
-      {
-        "Tag":"rro",
-        "Type":2
-      }
-    ]
-  },
   "DormRoom": {
     "Room": {
-      "RoomId":1,
-      "Name":"DormRoom",
-      "Description":"Your private room",
-      "CreatorPlayerId":1,
-      "ImageName":"ActivityDormRoom.png",
-      "State":0,
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":true,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
+      "RoomId": 1,
+      "Name": "DormRoom",
+      "Description": "Your private room",
+      "CreatorPlayerId": 29869076,
+      "ImageName": "ActivityDormRoom.png",
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsAGRoom": true,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true
     },
     "Scenes": [
       {
-        "RoomSceneId":1,
-        "RoomId":1,
-        "RoomSceneLocationId":"76d98498-60a1-430c-ab76-b54a29b7a163",
-        "Name":"dormroom2",
-        "IsSandbox":true,
-        "DataBlobName":"",
-        "MaxPlayers":20,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
+        "RoomSceneId": 1,
+        "RoomId": 1,
+        "RoomSceneLocationId": "76d98498-60a1-430c-ab76-b54a29b7a163",
+        "Name": "dormroom2",
+        "IsSandbox": false,
+        "DataBlobName": "",
+        "MaxPlayers": 20,
+        "CanMatchmakeInto": true,
+        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[29869076,39720],
-    "Hosts":[],
-    "CheerCount":1,
-    "FavoriteCount":1,
-    "VisitCount":1,
+    "CoOwners": [],
+    "Hosts": [],
+    "CheerCount": 1,
+    "FavoriteCount": 1,
+    "VisitCount": 1,
     "Tags": [
       {
-        "Tag":"rro",
-        "Type":2
+        "Tag": "rro",
+        "Type": 2
       }
     ]
   },
@@ -3645,7 +3566,7 @@
       "RoomId":2,
       "Name":"RecCenter",
       "Description":"A social hub to meet and mingle with friends new and old.",
-      "CreatorPlayerId":1,
+      "CreatorPlayerId":29869076,
       "ImageName":"ActivityRecCenter.png",
       "State":0,"Accessibility":1,
       "SupportsLevelVoting":false,
@@ -3668,13 +3589,14 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[29869076],
-    "Hosts":[1260281079, 39720, 153628704],
+    "CoOwners":[],
+    "Hosts":[1260281079, 39720],
     "CheerCount":1,
     "FavoriteCount":1,
     "VisitCount":1,
     "Tags": [
-      {"Tag":"rro",
+      {
+          "Tag":"rro",
        "Type":2
       }
     ]
