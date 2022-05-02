@@ -1,0 +1,244 @@
+{
+  "RobbyRecla": {
+    "Room": {
+      "RoomId":46134,
+      "Name":"RobbyRecla",
+      "Description":"Robby Recla's factory! [contest]",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRobbyRecla.jfif",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":46134,
+        "RoomSceneLocationId":"3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"cHCf2KdooU-BJ0QdyOci5Q.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":3,
+    "FavoriteCount":3,
+    "VisitCount":53,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
+  "ReclaFactory": {
+    "Room": {
+      "RoomId":28131,
+      "Name":"ReclaFactory",
+      "Description":"The candy factory's main atrium!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRobbyRecla.jfif",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":143743,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"fwUnu4qYMUehovGoqH_jTQ.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-06T03:22:02.3224184Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":36,
+    "FavoriteCount":56,
+    "VisitCount":1282,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
+    "ReclaMeet": {
+    "Room": {
+      "RoomId":46120,
+      "Name":"ReclaMeet",
+      "Description":"Meet the Appa-Lappas!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRobbyRecla.jfif",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":46120,
+        "RoomSceneLocationId":"3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ctXCxe1dBkGE5LESNW76rw.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-28T21:47:23.7411183Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":3,
+    "FavoriteCount":3,
+    "VisitCount":53,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
+    "ReclaProduction": {
+    "Room": {
+      "RoomId":28132,
+      "Name":"ReclaProduction",
+      "Description":"Where the candy gets made!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRobbyRecla.jfif",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":28132,
+        "RoomSceneLocationId":"3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"zbuMlbtSAUOwaTBdsdko2Q.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-06T03:22:02.3224184Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":36,
+    "FavoriteCount":56,
+    "VisitCount":1282,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
+    "ReclaFactory2": {
+    "Room": {
+      "RoomId":46218,
+      "Name":"ReclaFactory2",
+      "Description":"Main room..part 2!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRobbyRecla.jfif",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":46218,
+        "RoomSceneLocationId":"3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"zbuMlbtSAUOwaTBdsdko2Q.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-06T03:22:02.3224184Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":36,
+    "FavoriteCount":56,
+    "VisitCount":1282,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
+    "ReclaFactory2": {
+    "Room": {
+      "RoomId":46218,
+      "Name":"ReclaFactory2",
+      "Description":"Main room..part 2!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRobbyRecla.jfif",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":46218,
+        "RoomSceneLocationId":"3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"zbuMlbtSAUOwaTBdsdko2Q.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-06T03:22:02.3224184Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":36,
+    "FavoriteCount":56,
+    "VisitCount":1282,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  }
+}
